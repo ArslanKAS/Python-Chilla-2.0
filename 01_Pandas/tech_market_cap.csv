@@ -1,0 +1,833 @@
+,Rank,Name,Market Cap,Price,Today,Country
+0,1,Apple,$2.422 T,$150.77,0.23%,USA
+1,2,Microsoft,$1.770 T,$237.45,0.20%,USA
+2,3,Alphabet (Google),$1.285 T,$98.81,0.36%,USA
+3,4,Amazon,$1.173 T,$115.15,1.20%,USA
+4,5,Tesla,$858.66 B,$276.01,0.25%,USA
+5,6,TSMC,$369.38 B,$73.01,1.16%,Taiwan
+6,7,Meta Platforms (Facebook),$366.50 B,$136.37,2.88%,USA
+7,8,Tencent,$346.85 B,$36.00,3.24%,China
+8,9,NVIDIA,$304.72 B,$122.28,2.30%,USA
+9,10,Samsung,$255.11 B,$38.02,0.37%,S. Korea
+10,11,Alibaba,$211.84 B,$78.91,0.14%,China
+11,12,Broadcom,$187.21 B,$462.26,1.37%,USA
+12,13,ASML,$172.49 B,$430.81,1.22%,Netherlands
+13,14,Oracle,$171.03 B,$63.45,1.70%,USA
+14,15,Cisco,$166.73 B,$40.58,0.20%,USA
+15,16,Salesforce,$146.32 B,$146.32,0.47%,USA
+16,17,Texas Instruments,$145.77 B,$160.46,0.51%,USA
+17,18,QUALCOMM,$134.46 B,$119.74,1.20%,USA
+18,19,Meituan,$133.87 B,$21.63,1.37%,China
+19,20,Adobe,$132.87 B,$276.96,2.67%,USA
+20,21,Intuit,$111.56 B,$395.80,0.46%,USA
+21,22,Intel,$110.73 B,$26.97,2.00%,USA
+22,23,IBM,$109.36 B,$122.01,0.57%,USA
+23,24,AMD,$107.02 B,$66.30,2.44%,USA
+24,25,Netflix,$99.64 B,$224.07,1.03%,USA
+25,26,PayPal,$97.44 B,$84.26,3.12%,USA
+26,27,Automatic Data Processing,$94.95 B,$228.64,0.71%,USA
+27,28,SAP,$93.46 B,$79.63,0.20%,Germany
+28,29,Sony,$83.32 B,$66.70,2.53%,Japan
+29,30,Keyence,$83.30 B,$343.49,0.41%,Japan
+30,31,Jingdong Mall,$83.18 B,$53.34,1.97%,China
+31,32,Pinduoduo,$76.69 B,$60.66,1.02%,China
+32,33,ServiceNow,$74.76 B,$370.10,1.84%,USA
+33,34,Analog Devices,$72.42 B,$140.82,0.78%,USA
+34,35,Applied Materials,$71.35 B,$82.94,1.60%,USA
+35,36,Booking Holdings (Booking.com),$66.27 B,"$1,669",0.04%,USA
+36,37,Airbnb,$66.01 B,$103.23,1.45%,USA
+37,38,Schneider Electric,$61.49 B,$110.34,0.19%,France
+38,39,Fiserv,$61.33 B,$95.90,2.09%,USA
+39,40,Activision Blizzard,$58.14 B,$74.33,0.83%,USA
+40,41,Atlassian,$54.45 B,$213.61,1.82%,Australia
+41,42,Micron Technology,$53.92 B,$48.88,2.44%,USA
+42,43,Uber,$53.24 B,$26.89,3.34%,USA
+43,44,Equinix,$52.96 B,$581.59,1.95%,USA
+44,45,Snowflake,$52.83 B,$165.11,4.08%,USA
+45,46,NetEase,$51.46 B,$77.88,0.43%,China
+46,47,Lam Research,$50.88 B,$371.44,2.40%,USA
+47,48,Nintendo,$48.96 B,$420.57,2.00%,Japan
+48,49,Palo Alto Networks,$48.82 B,$163.17,0.99%,USA
+49,50,Fidelity National Information Services,$47.17 B,$77.59,3.36%,USA
+50,51,Synopsys,$46.38 B,$303.34,0.02%,USA
+51,52,Vmware,$45.56 B,$107.71,1.72%,USA
+52,53,Foxconn (Hon Hai Precision Industry),$45.19 B,$3.26,0.48%,Taiwan
+53,54,Dassault Systèmes,$44.53 B,$33.89,0.17%,France
+54,55,Cadence Design Systems,$44.47 B,$162.38,0.88%,USA
+55,56,KLA,$43.04 B,$303.57,1.31%,USA
+56,57,Tokyo Electron,$41.41 B,$265.94,0.85%,Japan
+57,58,Baidu,$41.24 B,$119.47,0.61%,China
+58,59,MercadoLibre,$40.24 B,$799.58,1.89%,Argentina
+59,60,Roper Technologies,$39.97 B,$377.07,0.25%,USA
+60,61,NXP Semiconductors,$39.90 B,$151.95,0.65%,Netherlands
+61,62,Autodesk,$39.71 B,$183.99,0.31%,USA
+62,63,SK Hynix,$39.47 B,$57.41,0.97%,S. Korea
+63,64,Fortinet,$38.07 B,$48.29,0.62%,USA
+64,65,Adyen,$37.79 B,"$1,220",0.21%,Netherlands
+65,66,Workday,$37.62 B,$146.97,2.82%,USA
+66,67,Enphase Energy,$37.23 B,$274.92,1.64%,USA
+67,68,CrowdStrike,$37.18 B,$159.35,0.65%,USA
+68,69,Marvell Technology Group,$36.32 B,$42.61,1.57%,USA
+69,70,TE Connectivity,$36.26 B,$113.39,1.04%,Switzerland
+70,71,Shopify,$35.83 B,$28.25,1.77%,Canada
+71,72,IQVIA,$34.70 B,$186.08,1.77%,USA
+72,73,Microchip Technology,$33.95 B,$61.46,1.16%,USA
+73,74,Arista Networks,$33.52 B,$109.10,0.79%,USA
+74,75,Block,$31.95 B,$54.14,3.79%,USA
+75,76,Electronic Arts,$31.92 B,$114.82,0.71%,USA
+76,77,Twitter,$31.77 B,$41.52,0.14%,USA
+77,78,Global Payments,$30.98 B,$111.81,2.81%,USA
+78,79,Murata Manufacturing (Murata Seisakusho),$30.58 B,$48.43,0.20%,Japan
+79,80,STMicroelectronics,$30.35 B,$32.70,1.71%,Switzerland
+80,81,Sea (Garena),$30.31 B,$53.97,0.30%,Singapore
+81,82,Kuaishou Technology,$30.23 B,$7.04,0.54%,China
+82,83,Xiaomi,$30.05 B,$1.21,0.00%,China
+83,84,Constellation Software,$29.35 B,"$1,385",0.40%,Canada
+84,85,Coupang,$29.13 B,$16.49,2.55%,S. Korea
+85,86,MediaTek,$29.02 B,$17.89,0.18%,Taiwan
+86,87,Infineon,$28.93 B,$22.22,0.13%,Germany
+87,88,GlobalFoundries,$28.51 B,$52.80,0.85%,USA
+88,89,CoStar Group,$28.29 B,$69.59,0.03%,USA
+89,90,The Trade Desk,$28.05 B,$57.45,0.43%,USA
+90,91,Keysight,$27.81 B,$155.56,0.82%,USA
+91,92,Datadog,$27.34 B,$86.41,1.00%,USA
+92,93,ON Semiconductor,$27.16 B,$62.70,0.96%,USA
+93,94,HP,$25.81 B,$24.96,1.54%,USA
+94,95,Dell,$25.43 B,$34.70,2.31%,USA
+95,96,Wolters Kluwer,$24.57 B,$95.90,1.91%,Netherlands
+96,97,Veeva Systems,$24.53 B,$157.99,2.82%,USA
+97,98,Nokia,$24.03 B,$4.24,0.47%,Finland
+98,99,Canon,$23.40 B,$22.05,1.65%,Japan
+99,100,Zscaler,$22.85 B,$159.76,0.67%,USA
+100,101,SMIC,$22.48 B,$2.04,0.89%,China
+101,102,Zoom,$21.82 B,$73.33,1.50%,USA
+102,103,Naver,$21.54 B,$143.70,0.00%,S. Korea
+103,104,Delta Electronics,$21.43 B,$8.25,0.58%,Taiwan
+104,105,eBay,$20.94 B,$38.13,0.16%,USA
+105,106,Ericsson,$20.61 B,$5.85,1.68%,Sweden
+106,107,EPAM Systems,$20.38 B,$355.33,2.41%,USA
+107,108,Amadeus IT Group,$20.22 B,$44.95,0.30%,Spain
+108,109,Ansys,$20.00 B,$229.72,0.08%,USA
+109,110,DoorDash,$19.58 B,$50.73,2.46%,USA
+110,111,GoTo,$19.53 B,$0.02000,1.56%,Indonesia
+111,112,Paycom,$19.26 B,$320.93,1.48%,USA
+112,113,"M3, Inc",$19.03 B,$28.04,0.17%,Japan
+113,114,JD Health,$18.76 B,$5.90,0.87%,China
+114,115,Take 2 Interactive,$18.26 B,$109.57,0.72%,USA
+115,116,Kakao,$18.15 B,$41.60,0.84%,S. Korea
+116,117,Trip.com,$17.80 B,$27.37,5.31%,China
+117,118,Cloudflare,$17.61 B,$53.78,1.19%,USA
+118,119,Monolithic Power Systems,$17.18 B,$367.35,1.05%,USA
+119,120,Spotify,$17.17 B,$89.14,0.22%,Sweden
+120,121,Align Technology,$17.15 B,$219.64,1.25%,USA
+121,122,Panasonic,$16.87 B,$7.23,0.29%,Japan
+122,123,Snap,$16.78 B,$10.18,1.36%,USA
+123,124,Coinbase,$16.31 B,$62.28,0.65%,USA
+124,125,ZoomInfo,$15.81 B,$39.19,2.12%,USA
+125,126,Nexon,$15.57 B,$17.53,1.98%,Japan
+126,127,Palantir,$15.54 B,$7.53,1.76%,USA
+127,128,Hewlett Packard Enterprise,$15.45 B,$12.01,1.23%,USA
+128,129,Renesas Electronics,$15.14 B,$8.47,1.69%,Japan
+129,130,Skyworks Solutions,$14.90 B,$92.87,1.56%,USA
+130,131,United Microelectronics,$14.78 B,$5.77,2.37%,Taiwan
+131,132,FactSet,$14.75 B,$388.42,1.08%,USA
+132,133,Bandai Namco,$14.59 B,$66.33,1.31%,Japan
+133,134,Tyler Technologies,$14.25 B,$342.75,0.48%,USA
+134,135,Expedia Group,$14.13 B,$89.69,1.72%,USA
+135,136,Check Point Software,$14.05 B,$112.07,0.60%,Israel
+136,137,AspenTech,$13.76 B,$221.48,0.30%,USA
+137,138,Zebra Technologies,$13.76 B,$265.86,0.81%,USA
+138,139,Trimble,$13.73 B,$55.44,1.67%,USA
+139,140,NortonLifeLock,$13.65 B,$20.51,0.77%,USA
+140,141,Wolfspeed,$13.63 B,$109.82,0.34%,USA
+141,142,NetApp,$13.60 B,$62.61,1.35%,USA
+142,143,Chewy,$13.54 B,$32.05,0.91%,USA
+143,144,Jack Henry & Associates,$13.37 B,$183.42,0.84%,USA
+144,145,Citrix Systems,$13.17 B,$103.80,0.05%,USA
+145,146,Match Group,$13.11 B,$46.34,2.03%,USA
+146,147,HubSpot,$13.09 B,$272.62,0.07%,USA
+147,148,MongoDB,$13.03 B,$189.69,2.59%,USA
+148,149,Splunk,$12.91 B,$79.38,2.04%,USA
+149,150,Paylocity,$12.85 B,$232.48,1.73%,USA
+150,151,Akamai,$12.82 B,$80.71,0.49%,USA
+151,152,Twilio,$12.63 B,$69.00,1.28%,USA
+152,153,Entegris,$12.53 B,$84.15,3.53%,USA
+153,154,SS&C Technologies,$12.42 B,$48.71,1.56%,USA
+154,155,PTC,$12.35 B,$105.17,0.82%,USA
+155,156,AMTD Digital,$12.18 B,$65.00,2.22%,Hong Kong
+156,157,Leidos,$12.06 B,$88.39,0.34%,USA
+157,158,NICE,$12.06 B,$188.81,0.31%,Israel
+158,159,Etsy,$11.93 B,$94.30,2.25%,USA
+159,160,WiseTech Global,$11.65 B,$35.63,1.16%,Australia
+160,161,ASM International,$11.59 B,$238.11,0.08%,Netherlands
+161,162,Seagate Technology,$11.45 B,$55.39,4.14%,Ireland
+162,163,ASE Group,$11.09 B,$5.15,2.65%,Taiwan
+163,164,GoDaddy,$10.93 B,$69.63,1.23%,USA
+164,165,Grab Holdings,$10.82 B,$2.81,2.18%,Singapore
+165,166,FICO,$10.81 B,$428.18,0.06%,USA
+166,167,DocuSign,$10.33 B,$51.67,1.37%,USA
+167,168,AVEVA,$10.31 B,"$3,416",0.03%,UK
+168,169,Lasertec,$10.15 B,$112.56,2.20%,Japan
+169,170,LG Electronics,$10.00 B,$13.72,0.71%,S. Korea
+170,171,Unity Software,$9.79 B,$32.61,1.92%,USA
+171,172,AMEC,$9.75 B,$15.83,0.32%,China
+172,173,Dynatrace,$9.53 B,$33.20,0.03%,USA
+173,174,DiDi,$9.36 B,$1.93,2.53%,China
+174,175,Zendesk,$9.34 B,$75.70,0.26%,USA
+175,176,Delivery Hero,$9.24 B,$36.30,2.74%,Germany
+176,177,Bentley Systems,$9.17 B,$31.80,2.28%,USA
+177,178,Lenovo,$9.08 B,$0.75,0.34%,Hong Kong
+178,179,Toast,$8.97 B,$17.37,1.64%,USA
+179,180,NEC Corp,$8.85 B,$32.47,0.64%,Japan
+180,181,Yonyou,$8.61 B,$2.51,1.01%,China
+181,182,F5 Networks,$8.57 B,$143.91,0.14%,USA
+182,183,Disco Corp.,$8.45 B,$234.26,1.05%,Japan
+183,184,Avast,$8.44 B,$8.01,0.00%,Czech Republic
+184,185,Qorvo,$8.41 B,$81.54,0.95%,USA
+185,186,Okta,$8.39 B,$52.84,2.47%,USA
+186,187,Juniper Networks,$8.37 B,$25.97,1.55%,USA
+187,188,Ceridian,$8.30 B,$54.26,0.97%,USA
+188,189,Avalara,$8.09 B,$91.36,0.80%,USA
+189,190,Roku,$8.02 B,$58.18,2.84%,USA
+190,191,Globant,$8.00 B,$191.57,0.78%,Luxembourg
+191,192,Lumen,$7.98 B,$7.71,5.17%,USA
+192,193,Genpact,$7.98 B,$43.50,0.11%,Bermuda
+193,194,Sage Group,$7.86 B,$771.92,3.36%,UK
+194,195,Xero,$7.85 B,$51.87,0.92%,New Zealand
+195,196,Pure Storage,$7.79 B,$26.09,0.65%,USA
+196,197,Robinhood,$7.72 B,$9.24,2.12%,USA
+197,198,Adevinta,$7.71 B,$6.05,1.57%,Norway
+198,199,AppLovin,$7.53 B,$20.32,0.54%,USA
+199,200,Trend Micro,$7.49 B,$53.64,1.71%,Japan
+200,201,Monotaro,$7.46 B,$14.86,0.42%,Japan
+201,202,Dropbox,$7.37 B,$19.99,0.60%,USA
+202,203,Telus International,$7.37 B,$27.39,0.51%,Canada
+203,204,Advantech,$7.33 B,$9.45,0.17%,Taiwan
+204,205,Nykaa,$7.29 B,$15.39,2.04%,India
+205,206,OpenText,$7.22 B,$26.92,0.70%,Canada
+206,207,Logitech,$7.21 B,$44.56,1.17%,Switzerland
+207,208,Entain,$7.13 B,"$1,212",3.42%,Isle of Man
+208,209,SentinelOne,$7.09 B,$25.27,1.94%,USA
+209,210,Zillow,$7.05 B,$29.27,0.91%,USA
+210,211,GitLab,$7.04 B,$47.32,1.21%,USA
+211,212,Krafton,$6.98 B,$148.97,1.44%,S. Korea
+212,213,UiPath,$6.94 B,$12.75,0.93%,USA
+213,214,Lufax,$6.88 B,$3.01,4.14%,China
+214,215,Rakuten,$6.81 B,$4.29,3.43%,Japan
+215,216,Rohm,$6.75 B,$68.82,0.30%,Japan
+216,217,Oracle Corp Japan,$6.72 B,$51.77,0.13%,Japan
+217,218,Tata Elxsi,$6.71 B,$103.90,0.99%,India
+218,219,Procore,$6.70 B,$49.02,3.47%,USA
+219,220,Clarivate,$6.64 B,$9.87,3.52%,UK
+220,221,Lattice Semiconductor,$6.58 B,$47.93,1.36%,USA
+221,222,Konami Holdings,$6.48 B,$48.52,4.01%,Japan
+222,223,Embracer Group,$6.45 B,$5.22,0.29%,Sweden
+223,224,Elastic NV,$6.42 B,$67.62,0.70%,USA
+224,225,Zomato,$6.40 B,$0.71,0.26%,India
+225,226,CDK Global,$6.39 B,$54.76,0.00%,USA
+226,227,dLocal,$6.22 B,$21.04,6.98%,Uruguay
+227,228,SailPoint,$6.18 B,$65.24,0.25%,USA
+228,229,Confluent,$6.16 B,$21.86,0.18%,USA
+229,230,Bilibili,$6.16 B,$16.09,0.56%,China
+230,231,ZOZO,$6.14 B,$20.75,0.23%,Japan
+231,232,CyberArk,$5.98 B,$147.03,0.62%,Israel
+232,233,Samsara,$5.96 B,$11.60,0.51%,USA
+233,234,Vipshop,$5.91 B,$9.31,1.42%,China
+234,235,Doximity,$5.87 B,$30.73,0.69%,USA
+235,236,Qualtrics,$5.81 B,$9.93,1.97%,USA
+236,237,Unimicron,$5.73 B,$3.89,4.66%,Taiwan
+237,238,ASUS,$5.66 B,$7.62,1.47%,Taiwan
+238,239,Nemetschek,$5.63 B,$47.79,0.37%,Germany
+239,240,Clearwater Analytics,$5.61 B,$16.34,3.48%,USA
+240,241,Futu Holdings,$5.60 B,$38.10,0.11%,Hong Kong
+241,242,Informatica,$5.57 B,$19.82,0.75%,USA
+242,243,Descartes Systems,$5.40 B,$63.27,1.69%,Canada
+243,244,Qualys,$5.40 B,$140.92,0.35%,USA
+244,245,Mandiant,$5.39 B,$22.98,0.00%,USA
+245,246,HashiCorp,$5.39 B,$28.93,4.21%,USA
+246,247,Vonage Holdings Corp.,$5.38 B,$20.99,0.00%,USA
+247,248,Paytm,$5.28 B,$8.15,0.79%,India
+248,249,Five9,$5.26 B,$75.16,0.88%,USA
+249,250,CCC Intelligent Solutions,$5.20 B,$8.45,0.35%,USA
+250,251,monday.com,$5.19 B,$118.92,0.43%,Israel
+251,252,GlobalWafers,$5.18 B,$11.91,1.05%,Taiwan
+252,253,Allegro.eu,$5.14 B,$5.03,0.36%,Poland
+253,254,Silergy,$5.14 B,$13.55,0.47%,China
+254,255,Ocado,$4.96 B,$601.99,0.51%,UK
+255,256,Zalando,$4.94 B,$19.05,0.82%,Germany
+256,257,Jubilant FoodWorks,$4.87 B,$7.39,0.28%,India
+257,258,Kakao Pay,$4.87 B,$36.75,1.32%,S. Korea
+258,259,Paycor,$4.84 B,$27.59,1.50%,USA
+259,260,Temenos,$4.80 B,$67.04,1.13%,Switzerland
+260,261,Lyft,$4.76 B,$13.52,3.36%,USA
+261,262,Lumentum,$4.67 B,$68.66,2.47%,USA
+262,263,NCsoft,$4.67 B,$230.13,0.15%,S. Korea
+263,264,Realtek,$4.66 B,$9.10,1.87%,Taiwan
+264,265,Nutanix,$4.60 B,$20.28,1.36%,USA
+265,266,Carsales,$4.56 B,$12.99,0.20%,Australia
+266,267,Coupa,$4.55 B,$59.93,3.56%,USA
+267,268,Nanya Technology,$4.48 B,$1.45,0.77%,Taiwan
+268,269,Endava,$4.45 B,$79.58,3.43%,UK
+269,270,CyberAgent,$4.33 B,$8.57,1.48%,Japan
+270,271,SPS Commerce,$4.32 B,$120.21,2.35%,USA
+271,272,Wiwynn,$4.32 B,$24.76,2.48%,Taiwan
+272,273,Soitec,$4.32 B,$121.71,0.84%,France
+273,274,Asana,$4.31 B,$20.45,1.02%,USA
+274,275,DoubleVerify,$4.28 B,$26.15,0.23%,USA
+275,276,Novatek Microelectronics,$4.28 B,$7.04,0.45%,Taiwan
+276,277,Teladoc Health,$4.27 B,$26.42,2.04%,USA
+277,278,Weibo,$4.17 B,$16.85,3.60%,China
+278,279,Wix.com,$4.14 B,$72.17,0.69%,Israel
+279,280,Allegro MicroSystems,$4.12 B,$21.55,0.23%,USA
+280,281,Smartsheet,$4.11 B,$31.50,3.31%,USA
+281,282,Global-e,$4.10 B,$26.25,3.06%,Israel
+282,283,51job,$4.10 B,$60.90,0.05%,China
+283,284,Nan Ya PCB,$4.07 B,$6.30,3.63%,Taiwan
+284,285,SoFi,$4.06 B,$5.08,4.33%,USA
+285,286,Topicus,$4.04 B,$50.21,2.25%,Canada
+286,287,Alteryx,$3.98 B,$58.18,0.26%,USA
+287,288,Alight,$3.97 B,$7.14,0.71%,USA
+288,289,Playtika,$3.96 B,$9.62,6.78%,Israel
+289,290,Autohome,$3.90 B,$30.49,0.23%,China
+290,291,RingCentral,$3.86 B,$40.54,0.64%,USA
+291,292,Tenable,$3.85 B,$34.56,0.40%,USA
+292,293,Kingsoft,$3.85 B,$2.83,1.14%,China
+293,294,Bumble,$3.83 B,$20.76,2.21%,USA
+294,295,HelloFresh,$3.82 B,$21.74,2.27%,Germany
+295,296,Nuvei,$3.81 B,$26.81,3.25%,Canada
+296,297,Wayfair,$3.79 B,$35.73,5.38%,USA
+297,298,Omnicell,$3.78 B,$85.42,1.32%,USA
+298,299,nCino,$3.78 B,$34.12,0.41%,USA
+299,300,Nikon,$3.71 B,$9.56,3.24%,Japan
+300,301,KnowBe4,$3.71 B,$21.13,1.45%,USA
+301,302,Power Integrations,$3.70 B,$64.88,0.87%,USA
+302,303,Freshworks,$3.69 B,$12.91,2.71%,USA
+303,304,Ubisoft,$3.65 B,$29.74,0.36%,France
+304,305,Marqeta,$3.65 B,$6.66,1.19%,USA
+305,306,New Relic,$3.64 B,$54.22,0.22%,USA
+306,307,Perfect World Entertainment,$3.60 B,$1.80,2.47%,China
+307,308,IronSource,$3.60 B,$3.52,1.12%,Israel
+308,309,DigitalOcean,$3.52 B,$36.32,1.28%,USA
+309,310,Box,$3.45 B,$24.25,0.74%,USA
+310,311,BE Semiconductor,$3.43 B,$43.00,2.99%,Netherlands
+311,312,Rumble,$3.41 B,$12.19,1.33%,USA
+312,313,Onto Innovation,$3.27 B,$65.85,0.35%,USA
+313,314,Sprout Social,$3.20 B,$58.62,1.31%,USA
+314,315,Instructure Holdings,$3.18 B,$22.47,0.67%,USA
+315,316,MakeMyTrip,$3.14 B,$29.89,2.38%,India
+316,317,Braze,$3.13 B,$33.02,3.76%,USA
+317,318,Schibsted,$3.13 B,$13.78,2.38%,Norway
+318,319,Teradata,$3.11 B,$30.26,1.27%,USA
+319,320,EngageSmart,$3.06 B,$18.73,1.24%,USA
+320,321,Sega Sammy Holdings,$3.02 B,$13.72,3.07%,Japan
+321,322,Just Eat Takeaway,$2.95 B,$13.86,0.26%,Netherlands
+322,323,Squarespace,$2.94 B,$20.98,0.94%,USA
+323,324,Appian,$2.93 B,$40.54,2.29%,USA
+324,325,Chindata,$2.93 B,$8.00,1.27%,China
+325,326,EVO Payments,$2.93 B,$33.33,0.00%,USA
+326,327,BlackBerry,$2.89 B,$4.97,1.97%,Canada
+327,328,Varonis,$2.87 B,$26.19,0.68%,USA
+328,329,NCR Corporation,$2.82 B,$20.67,0.86%,USA
+329,330,Kinaxis,$2.81 B,$102.01,6.18%,Canada
+330,331,LifeStance Health Group,$2.80 B,$7.45,0.00%,USA
+331,332,Aurora Innovation,$2.75 B,$2.39,1.70%,USA
+332,333,Supermicro,$2.72 B,$52.15,2.40%,USA
+333,334,Jamf,$2.71 B,$22.52,1.53%,USA
+334,335,NEXTDC,$2.70 B,$5.90,0.77%,Australia
+335,336,ASM Pacific Technology,$2.68 B,$6.55,0.96%,Hong Kong
+336,337,PB Fintech,$2.67 B,$5.78,1.92%,India
+337,338,PowerSchool,$2.67 B,$16.88,0.36%,USA
+338,339,Sanmina,$2.63 B,$45.60,0.57%,USA
+339,340,TietoEVRY,$2.61 B,$22.07,0.17%,Finland
+340,341,Pegasystems,$2.61 B,$31.89,1.18%,USA
+341,342,Chegg,$2.61 B,$20.67,9.08%,USA
+342,343,Luminar Technologies,$2.61 B,$7.30,0.95%,USA
+343,344,Rapid7,$2.61 B,$44.49,2.88%,USA
+344,345,Cvent,$2.60 B,$5.40,2.88%,USA
+345,346,Softcat,$2.55 B,"$1,281",2.07%,UK
+346,347,Darktrace,$2.49 B,$348.08,6.07%,UK
+347,348,Nordic Semiconductor,$2.49 B,$12.83,2.80%,Norway
+348,349,Lightspeed POS,$2.43 B,$16.28,3.27%,Canada
+349,350,Blackbaud,$2.37 B,$44.79,1.71%,USA
+350,351,Flywire,$2.36 B,$21.80,5.38%,USA
+351,352,Mercari,$2.35 B,$14.69,2.22%,Japan
+352,353,Sprinklr,$2.33 B,$8.98,3.85%,USA
+353,354,SimCorp,$2.32 B,$59.10,1.64%,Denmark
+354,355,Kulicke and Soffa Industries,$2.27 B,$39.13,1.76%,Singapore
+355,356,MicroStrategy,$2.26 B,$200.18,4.56%,USA
+356,357,Ambarella,$2.24 B,$57.31,1.98%,USA
+357,358,Silicon Motion,$2.21 B,$67.02,2.64%,Hong Kong
+358,359,KPIT Technologies,$2.20 B,$8.06,1.63%,India
+359,360,Verint Systems,$2.20 B,$33.77,3.24%,USA
+360,361,Xerox,$2.15 B,$13.84,3.42%,USA
+361,362,OVH Groupe,$2.14 B,$10.78,0.58%,France
+362,363,Acer,$2.11 B,$0.68,1.17%,Taiwan
+363,364,CD Projekt,$2.10 B,$20.88,13.47%,Poland
+364,365,Hisense Visual Technology,$2.10 B,$1.61,4.45%,China
+365,366,EverCommerce,$2.05 B,$10.58,0.47%,USA
+366,367,Certara,$2.05 B,$12.84,0.62%,USA
+367,368,360 DigiTech,$2.04 B,$13.18,0.15%,China
+368,369,Vertex,$2.00 B,$13.39,1.59%,USA
+369,370,Jfrog,$1.97 B,$19.93,3.37%,USA
+370,371,stem,$1.97 B,$12.83,7.96%,USA
+371,372,Micro Focus,$1.95 B,$5.56,0.71%,UK
+372,373,Payoneer,$1.93 B,$5.59,2.61%,USA
+373,374,Bukalapak.com,$1.90 B,$0.02000,2.19%,Indonesia
+374,375,Axcelis Technologies,$1.90 B,$57.57,0.40%,USA
+375,376,VIZIO,$1.89 B,$9.82,0.61%,USA
+376,377,E2open,$1.88 B,$6.23,1.63%,USA
+377,378,Allscripts,$1.84 B,$16.15,3.12%,USA
+378,379,Q2,$1.83 B,$32.02,3.41%,USA
+379,380,Sterling Check,$1.81 B,$18.85,3.23%,USA
+380,381,SIGNA Sports United,$1.81 B,$5.38,3.76%,Germany
+381,382,Kainos Group,$1.80 B,"$1,456",0.15%,UK
+382,383,Spirent,$1.78 B,$291.58,1.43%,UK
+383,384,ZipRecruiter,$1.77 B,$15.55,1.64%,USA
+384,385,Formosa Sumco Technology,$1.76 B,$4.55,0.35%,Taiwan
+385,386,Revolve,$1.75 B,$23.99,1.48%,USA
+386,387,Plantronics,$1.75 B,$39.82,0.00%,USA
+387,388,GB Group (GBG),$1.70 B,$677.00,2.21%,UK
+388,389,Upstart,$1.69 B,$20.80,3.26%,USA
+389,390,Credo Technology,$1.69 B,$11.61,0.34%,USA
+390,391,Udemy,$1.68 B,$12.31,2.67%,USA
+391,392,Amplitude,$1.68 B,$15.00,0.07%,USA
+392,393,CSG International,$1.68 B,$52.44,2.35%,USA
+393,394,TechTarget,$1.67 B,$56.84,3.40%,USA
+394,395,LegalZoom,$1.67 B,$8.61,1.37%,USA
+395,396,SiTime,$1.66 B,$78.40,3.61%,USA
+396,397,Sabre,$1.66 B,$5.06,6.64%,USA
+397,398,Software AG,$1.65 B,$22.42,0.51%,Germany
+398,399,IndiaMART,$1.65 B,$53.54,0.20%,India
+399,400,TuSimple,$1.64 B,$7.35,2.65%,USA
+400,401,Trainline,$1.63 B,$342.56,0.44%,UK
+401,402,Criteo,$1.63 B,$26.97,0.67%,France
+402,403,N-Able,$1.61 B,$8.97,0.44%,USA
+403,404,Remitly,$1.58 B,$9.46,5.40%,USA
+404,405,Duck Creek Technologies,$1.55 B,$11.72,0.77%,USA
+405,406,Semrush,$1.51 B,$10.76,0.92%,USA
+406,407,Paradox Interactive,$1.51 B,$14.35,1.89%,Sweden
+407,408,Coursera,$1.50 B,$10.33,0.78%,USA
+408,409,DeNA,$1.49 B,$12.82,1.71%,Japan
+409,410,Xperi,$1.48 B,$14.27,0.63%,USA
+410,411,TeamViewer,$1.45 B,$7.74,0.64%,Germany
+411,412,Lemonade,$1.44 B,$21.02,2.19%,USA
+412,413,AvidXchange,$1.44 B,$7.30,2.54%,USA
+413,414,Digital Turbine,$1.43 B,$14.53,2.55%,USA
+414,415,Playtech,$1.38 B,$453.28,7.16%,Isle of Man
+415,416,C3 AI,$1.38 B,$12.77,2.89%,USA
+416,417,Vacasa,$1.38 B,$3.10,0.65%,USA
+417,418,Vivint Smart Home,$1.36 B,$6.43,2.06%,USA
+418,419,23andMe,$1.35 B,$3.00,8.30%,USA
+419,420,Grid Dynamics,$1.33 B,$18.09,1.86%,USA
+420,421,Exclusive Networks,$1.33 B,$14.55,2.84%,France
+421,422,MeridianLink,$1.30 B,$16.13,1.70%,USA
+422,423,AST SpaceMobile,$1.30 B,$7.09,0.28%,USA
+423,424,Alkami Technology,$1.28 B,$14.12,1.80%,USA
+424,425,Phreesia,$1.28 B,$24.38,1.26%,USA
+425,426,Zeta Global,$1.26 B,$6.16,1.32%,USA
+426,427,Agilysys,$1.26 B,$50.68,6.92%,USA
+427,428,Olo,$1.24 B,$7.72,2.65%,USA
+428,429,Cohu,$1.23 B,$25.67,1.38%,USA
+429,430,LiveRamp,$1.23 B,$18.35,0.16%,USA
+430,431,ForgeRock,$1.21 B,$14.34,3.56%,USA
+431,432,SolarWinds,$1.21 B,$7.57,1.43%,USA
+432,433,TANLA,$1.21 B,$8.97,1.74%,India
+433,434,Harmonic,$1.21 B,$11.54,4.25%,USA
+434,435,Expensify,$1.20 B,$14.78,3.57%,USA
+435,436,Nagarro,$1.20 B,$88.23,0.44%,Germany
+436,437,CI&T,$1.20 B,$9.04,0.44%,Brazil
+437,438,Sierra Wireless,$1.20 B,$30.60,0.13%,Canada
+438,439,Mixi,$1.19 B,$16.42,1.28%,Japan
+439,440,Pagaya Technologies,$1.19 B,$1.82,9.45%,Israel
+440,441,Model N,$1.19 B,$32.14,0.94%,USA
+441,442,Asseco,$1.18 B,$14.48,0.66%,Poland
+442,443,UCT (Ultra Clean Holdings),$1.15 B,$25.44,3.01%,USA
+443,444,LendingClub,$1.15 B,$11.12,2.37%,USA
+444,445,Fiverr,$1.15 B,$31.02,0.81%,Israel
+445,446,Digi International,$1.13 B,$32.14,0.69%,USA
+446,447,Marathon Digital Holdings,$1.12 B,$9.61,1.48%,USA
+447,448,Bytes Technology,$1.10 B,$460.42,1.29%,UK
+448,449,secunet,$1.10 B,$170.47,0.34%,Germany
+449,450,Hims & Hers Health,$1.09 B,$5.31,0.75%,USA
+450,451,ePlus,$1.09 B,$40.65,1.26%,USA
+451,452,Matterport,$1.08 B,$3.84,2.67%,USA
+452,453,Corsair Gaming,$1.07 B,$11.26,5.62%,USA
+453,454,Poshmark,$1.06 B,$13.62,5.29%,USA
+454,455,Intapp,$1.06 B,$16.95,2.92%,USA
+455,456,Overstock.com,$1.06 B,$23.34,2.14%,USA
+456,457,MYT Netherlands Parent (Mytheresa),$1.05 B,$11.98,3.85%,Germany
+457,458,Donnelley Financial Solutions,$1.05 B,$35.40,0.56%,USA
+458,459,Nextdoor,$1.04 B,$2.75,3.17%,USA
+459,460,BigCommerce,$1.04 B,$14.25,1.72%,USA
+460,461,Riot Blockchain,$1.03 B,$6.70,5.85%,USA
+461,462,Gree,$1.03 B,$5.95,0.23%,Japan
+462,463,3D Systems,$1.02 B,$7.90,1.25%,USA
+463,464,Terveystalo,$1.02 B,$8.11,0.12%,Finland
+464,465,BrainChip,$1.00 B,$0.58,7.23%,Australia
+465,466,Paysafe,$1.00 B,$1.38,4.17%,USA
+466,467,EaseMyTrip,$1.00 B,$4.60,3.05%,India
+467,468,Fastly,$0.99 B,$8.19,2.38%,USA
+468,469,Compass,$0.98 B,$2.29,2.55%,USA
+469,470,Locaweb,$0.98 B,$1.66,1.43%,Brazil
+470,471,Consensus Cloud Solutions,$0.97 B,$49.25,1.36%,USA
+471,472,Protolabs,$0.97 B,$35.42,1.91%,USA
+472,473,American Well,$0.97 B,$3.55,0.28%,USA
+473,474,Simulations Plus,$0.96 B,$47.75,1.38%,USA
+474,475,Qt Group,$0.95 B,$37.91,1.82%,Finland
+475,476,IonQ,$0.95 B,$4.79,0.42%,USA
+476,477,Veeco,$0.94 B,$18.47,0.59%,USA
+477,478,GungHo Online Entertainment,$0.94 B,$15.30,2.79%,Japan
+478,479,A10 Networks,$0.94 B,$12.78,1.69%,USA
+479,480,Rackspace Technology,$0.93 B,$4.46,10.44%,USA
+480,481,Zuora,$0.93 B,$7.12,3.00%,USA
+481,482,Stratasys,$0.93 B,$14.06,1.19%,Israel
+482,483,TomTom,$0.90 B,$7.06,2.17%,Netherlands
+483,484,Perion Network,$0.89 B,$18.84,4.75%,Israel
+484,485,indie Semiconductor,$0.89 B,$7.48,2.33%,USA
+485,486,Exscientia,$0.89 B,$7.27,1.22%,UK
+486,487,Photronics,$0.87 B,$14.23,2.93%,USA
+487,488,MapmyIndia,$0.87 B,$16.46,2.77%,India
+488,489,PDF Solutions,$0.86 B,$23.30,0.85%,USA
+489,490,Docebo,$0.86 B,$26.19,0.04%,Canada
+490,491,Himax,$0.86 B,$4.97,3.12%,Taiwan
+491,492,Atoss,$0.86 B,$109.01,0.70%,Germany
+492,493,NeoPhotonics,$0.85 B,$16.01,0.06%,USA
+493,494,PROG Holdings,$0.84 B,$16.83,2.49%,USA
+494,495,Momentive Global,$0.83 B,$5.68,0.71%,USA
+495,496,Alpha & Omega Semiconductor,$0.83 B,$30.34,2.66%,USA
+496,497,PubMatic,$0.82 B,$15.82,2.65%,USA
+497,498,Sumo Logic,$0.82 B,$6.99,1.83%,USA
+498,499,Lightwave Logic,$0.81 B,$7.30,0.00%,USA
+499,500,Newegg,$0.81 B,$2.19,0.00%,USA
+500,501,Getnet,$0.81 B,$1.70,2.86%,Brazil
+501,502,SMART Global Holdings,$0.80 B,$16.02,1.54%,USA
+502,503,PAR Technology,$0.79 B,$29.16,2.96%,USA
+503,504,Arqit Quantum,$0.79 B,$6.49,1.07%,UK
+504,505,Thryv,$0.79 B,$22.97,0.35%,USA
+505,506,Genius Sports,$0.78 B,$3.62,2.69%,UK
+506,507,Cellebrite,$0.77 B,$4.09,5.00%,Israel
+507,508,Karooooo,$0.77 B,$25.00,1.19%,Singapore
+508,509,Cyxtera Technologies,$0.76 B,$4.29,2.50%,USA
+509,510,Snap One,$0.76 B,$10.03,0.79%,USA
+510,511,Renren,$0.74 B,$30.05,1.45%,China
+511,512,ZeroFox,$0.74 B,$6.29,15.46%,USA
+512,513,AvePoint,$0.74 B,$4.00,2.20%,USA
+513,514,Velo3D,$0.73 B,$4.00,2.68%,USA
+514,515,Conduent,$0.73 B,$3.40,2.58%,USA
+515,516,ChipMOS Technologies,$0.73 B,$18.55,5.16%,Taiwan
+516,517,Paya,$0.72 B,$5.46,3.02%,USA
+517,518,Vimeo,$0.71 B,$4.32,1.48%,USA
+518,519,System1,$0.71 B,$6.35,2.16%,USA
+519,520,Navitas Semiconductor,$0.71 B,$4.75,0.42%,Ireland
+520,521,Ichor Systems,$0.70 B,$24.65,4.31%,USA
+521,522,Zhihu,$0.70 B,$1.17,3.54%,China
+522,523,LivePerson,$0.70 B,$9.34,5.42%,USA
+523,524,Pushpay Holdings,$0.69 B,$0.61,2.73%,New Zealand
+524,525,ACM Research,$0.69 B,$11.74,14.87%,USA
+525,526,WalkMe,$0.68 B,$8.11,3.80%,Israel
+526,527,VTEX,$0.68 B,$3.57,8.46%,UK
+527,528,Secureworks,$0.68 B,$8.02,0.99%,USA
+528,529,Riskified,$0.67 B,$4.01,0.74%,Israel
+529,530,Com2uS,$0.66 B,$53.83,1.59%,S. Korea
+530,531,Innoviz,$0.66 B,$4.94,2.76%,Israel
+531,532,Cimpress,$0.66 B,$25.56,1.27%,Ireland
+532,533,NerdWallet,$0.66 B,$9.06,5.33%,USA
+533,534,ChannelAdvisor,$0.65 B,$22.66,0.26%,USA
+534,535,Repay Holdings,$0.65 B,$7.16,5.04%,USA
+535,536,New Work,$0.65 B,$115.96,0.33%,Germany
+536,537,Telos,$0.64 B,$9.54,1.04%,USA
+537,538,Mastek,$0.63 B,$21.19,0.30%,India
+538,539,Redfin,$0.63 B,$5.86,5.33%,USA
+539,540,Materialise NV,$0.63 B,$10.70,0.00%,Belgium
+540,541,Team17,$0.63 B,$432.93,0.62%,UK
+541,542,NETGEAR,$0.62 B,$21.63,0.83%,USA
+542,543,Nano Dimension,$0.61 B,$2.40,1.23%,USA
+543,544,COLOPL,$0.61 B,$4.77,0.44%,Japan
+544,545,CEVA,$0.61 B,$26.26,1.06%,USA
+545,546,THG (The Hut Group),$0.60 B,$43.48,1.80%,UK
+546,547,SoundHound AI,$0.60 B,$3.08,0.33%,USA
+547,548,Couchbase,$0.60 B,$13.43,1.97%,USA
+548,549,Ebix,$0.59 B,$19.15,2.59%,USA
+549,550,Rover,$0.59 B,$3.23,0.94%,USA
+550,551,ContextLogic (wish.com),$0.58 B,$0.88,5.52%,USA
+551,552,Huya,$0.58 B,$2.45,7.89%,China
+552,553,Jumia,$0.58 B,$5.83,2.83%,Germany
+553,554,Canaan,$0.58 B,$3.11,1.63%,China
+554,555,LiveChat Software,$0.58 B,$22.57,0.36%,Poland
+555,556,Nazara Technologies,$0.58 B,$8.20,1.80%,India
+556,557,Microvision,$0.57 B,$3.49,1.69%,USA
+557,558,Youdao,$0.57 B,$4.55,6.81%,China
+558,559,Frontier Developments,$0.57 B,"$1,452",4.35%,UK
+559,560,Domo,$0.57 B,$16.64,0.95%,USA
+560,561,tuya,$0.56 B,$1.00,1.01%,China
+561,562,Sohu.com,$0.55 B,$16.59,3.21%,China
+562,563,Wirtualna Polska (WP Holding),$0.55 B,$19.11,0.00%,Poland
+563,564,QuinStreet,$0.55 B,$10.43,0.57%,USA
+564,565,CS Disco,$0.55 B,$9.50,15.78%,USA
+565,566,Absolute Software,$0.55 B,$10.72,0.28%,Canada
+566,567,Wemade,$0.55 B,$33.69,0.72%,S. Korea
+567,568,Liquidity Services,$0.54 B,$15.35,1.54%,USA
+568,569,ANI Pharmaceuticals,$0.54 B,$31.22,1.55%,USA
+569,570,Neowiz Games,$0.53 B,$25.23,4.21%,S. Korea
+570,571,UserTesting,$0.52 B,$3.65,2.14%,USA
+571,572,Faro Technologies,$0.52 B,$27.81,2.18%,USA
+572,573,Unisys,$0.51 B,$7.65,4.61%,USA
+573,574,GigaCloud Technology,$0.50 B,$12.49,2.57%,China
+574,575,MediaAlpha,$0.50 B,$8.40,1.57%,USA
+575,576,Yalla Group,$0.50 B,$3.41,0.89%,United Arab Emirates
+576,577,Blend Labs,$0.50 B,$2.14,1.83%,USA
+577,578,UP Fintech (Tiger Brokers),$0.50 B,$3.29,2.17%,China
+578,579,American Software,$0.49 B,$14.79,0.34%,USA
+579,580,Core Scientific,$0.49 B,$1.39,2.80%,USA
+580,581,Tricida,$0.48 B,$8.72,2.47%,USA
+581,582,Infibeam Avenues,$0.47 B,$0.18,0.34%,India
+582,583,Hippo,$0.47 B,$0.83,5.21%,USA
+583,584,Opera,$0.47 B,$4.13,1.23%,Norway
+584,585,Similarweb,$0.46 B,$6.17,4.19%,Israel
+585,586,Allied Motion Technologies,$0.46 B,$29.27,0.65%,USA
+586,587,Magnachip,$0.46 B,$10.40,0.86%,Luxembourg
+587,588,Playstudios,$0.45 B,$3.39,4.78%,USA
+588,589,Taboola.com,$0.45 B,$1.88,1.57%,USA
+589,590,2U,$0.45 B,$5.81,0.52%,USA
+590,591,Pearl Abyss,$0.44 B,$34.50,5.76%,S. Korea
+591,592,SmartRent,$0.44 B,$2.24,3.86%,USA
+592,593,trivago,$0.43 B,$1.22,6.87%,Germany
+593,594,Stitch Fix,$0.43 B,$3.94,7.73%,USA
+594,595,nLIGHT,$0.43 B,$9.60,2.14%,USA
+595,596,Tucows,$0.42 B,$39.90,0.45%,Canada
+596,597,DoubleDown Interactive,$0.42 B,$8.65,3.57%,USA
+597,598,Mitek Systems,$0.41 B,$9.43,1.51%,USA
+598,599,Aeva Technologies,$0.41 B,$1.92,5.42%,USA
+599,600,Rimini Street,$0.41 B,$4.76,0.00%,USA
+600,601,Arlo Technologies,$0.41 B,$4.68,2.70%,USA
+601,602,Focus Universal,$0.40 B,$9.44,2.38%,USA
+602,603,1-800-PetMeds,$0.40 B,$19.47,0.10%,USA
+603,604,ON24,$0.40 B,$8.52,3.18%,USA
+604,605,Computer Programs and Systems,$0.40 B,$27.45,1.08%,USA
+605,606,Skillz,$0.40 B,$0.96,4.93%,USA
+606,607,Arbe Robotics,$0.39 B,$6.30,1.94%,Israel
+607,608,CyberOptics,$0.39 B,$53.56,0.04%,USA
+608,609,Cazoo,$0.39 B,$0.52,7.91%,UK
+609,610,Despegar,$0.38 B,$5.85,5.19%,Argentina
+610,611,PlayWay,$0.38 B,$56.73,2.26%,Poland
+611,612,Markforged,$0.37 B,$1.97,1.50%,USA
+612,613,Aehr Test Systems,$0.37 B,$13.11,5.21%,USA
+613,614,Baozun,$0.37 B,$6.25,1.26%,China
+614,615,Valens Semiconductor,$0.37 B,$3.83,2.54%,Israel
+615,616,Nacon,$0.36 B,$4.00,4.83%,France
+616,617,Vuzix,$0.36 B,$5.65,4.07%,USA
+617,618,Cerberus Cyber Sentinel,$0.35 B,$2.53,2.85%,USA
+618,619,Sarcos Technology and Robotics,$0.34 B,$2.26,7.00%,USA
+619,620,Hut 8 Mining,$0.33 B,$1.71,1.18%,Canada
+620,621,Trustpilot Group,$0.33 B,$80.09,1.73%,Denmark
+621,622,Webzen,$0.33 B,$10.58,0.67%,S. Korea
+622,623,Gravity Co.,$0.32 B,$47.30,4.37%,S. Korea
+623,624,OneConnect,$0.32 B,$0.81,4.71%,China
+624,625,ShotSpotter,$0.32 B,$26.66,1.83%,USA
+625,626,Sema4,$0.32 B,$0.85,1.50%,USA
+626,627,Forge Global,$0.32 B,$1.89,0.53%,USA
+627,628,LendingTree,$0.32 B,$25.24,2.59%,USA
+628,629,The Original BARK Company,$0.32 B,$1.83,0.00%,USA
+629,630,Cipher Mining,$0.32 B,$1.30,0.78%,USA
+630,631,Digital Bros,$0.31 B,$21.76,2.68%,Italy
+631,632,Weave Communications,$0.30 B,$4.75,5.19%,USA
+632,633,OPTiM,$0.30 B,$5.53,0.50%,Japan
+633,634,Skillsoft,$0.30 B,$1.83,0.55%,USA
+634,635,Cognyte Software,$0.29 B,$4.43,9.22%,Israel
+635,636,HIVE Blockchain Technologies,$0.29 B,$3.61,3.73%,Canada
+636,637,WM Technology,$0.29 B,$1.67,4.02%,USA
+637,638,CarParts.com,$0.29 B,$5.38,0.55%,USA
+638,639,NextNav,$0.29 B,$2.87,4.74%,USA
+639,640,SkyWater Technology,$0.29 B,$7.19,1.64%,USA
+640,641,Identiv,$0.28 B,$12.54,1.21%,USA
+641,642,Priority Technology Holdings,$0.28 B,$3.65,1.96%,USA
+642,643,RumbleON,$0.27 B,$17.46,5.37%,USA
+643,644,Marvelous,$0.27 B,$4.61,0.15%,Japan
+644,645,Kaltura,$0.27 B,$2.12,6.19%,USA
+645,646,Comtech Telecommunications,$0.27 B,$9.99,0.50%,USA
+646,647,People Can Fly,$0.27 B,$8.08,11.67%,Poland
+647,648,Absci,$0.27 B,$2.95,5.14%,USA
+648,649,Groupon,$0.27 B,$8.99,2.92%,USA
+649,650,LiveVox,$0.26 B,$2.68,4.69%,USA
+650,651,Digimarc,$0.26 B,$13.26,3.91%,USA
+651,652,Focus Entertainment,$0.25 B,$41.99,0.46%,France
+652,653,Upland Software,$0.25 B,$8.19,0.86%,USA
+653,654,11 bit studios,$0.25 B,$107.17,1.15%,Poland
+654,655,Appen,$0.25 B,$2.06,0.00%,Australia
+655,656,SciPlay,$0.25 B,$10.69,1.84%,USA
+656,657,Transphorm,$0.24 B,$4.30,0.46%,USA
+657,658,MSTC Limited,$0.23 B,$3.17,0.27%,India
+658,659,Cian,$0.23 B,$3.40,0.00%,Russia
+659,660,Qudian,$0.23 B,$0.93,2.63%,China
+660,661,Cepton,$0.23 B,$1.51,6.21%,USA
+661,662,eGain,$0.23 B,$7.32,0.14%,USA
+662,663,Silicom,$0.22 B,$34.25,1.35%,Israel
+663,664,Arteris,$0.22 B,$6.95,0.14%,USA
+664,665,Babylon Holdings,$0.22 B,$0.53,0.13%,UK
+665,666,Diebold Nixdorf,$0.21 B,$2.75,0.00%,USA
+666,667,Pear Therapeutics,$0.21 B,$1.55,4.32%,USA
+667,668,Rigetti Computing,$0.21 B,$1.77,3.28%,USA
+668,669,Vinco Ventures,$0.21 B,$0.92,3.06%,USA
+669,670,Velodyne Lidar,$0.21 B,$0.96,0.46%,USA
+670,671,Porch Group,$0.21 B,$2.11,4.98%,USA
+671,672,Bitfarms,$0.20 B,$1.03,3.74%,Canada
+672,673,Benefitfocus,$0.20 B,$6.11,0.49%,USA
+673,674,ThredUp,$0.20 B,$2.07,0.00%,USA
+674,675,Accelya,$0.20 B,$13.82,0.29%,India
+675,676,Nano Labs,$0.20 B,$3.78,2.88%,China
+676,677,gumi,$0.20 B,$6.92,7.43%,Japan
+677,678,Nerdy,$0.20 B,$2.19,3.30%,USA
+678,679,Veritone,$0.19 B,$5.53,2.47%,USA
+679,680,UNITED,$0.19 B,$9.81,1.46%,Japan
+680,681,AgileThought,$0.19 B,$4.07,2.01%,USA
+681,682,Iris Energy,$0.19 B,$3.50,4.63%,Australia
+682,683,AEye,$0.18 B,$1.19,2.46%,USA
+683,684,Cigniti Technologies,$0.18 B,$6.82,2.32%,India
+684,685,Méliuz,$0.18 B,$0.22,4.13%,Brazil
+685,686,BlackSky Technology,$0.18 B,$1.53,3.16%,USA
+686,687,Embark Technology,$0.18 B,$7.99,1.40%,USA
+687,688,Yunji,$0.18 B,$0.86,1.34%,China
+688,689,Lesaka Technologies,$0.18 B,$3.08,1.91%,South Africa
+689,690,SOPHiA GENETICS,$0.18 B,$2.84,4.38%,Switzerland
+690,691,E INC (E Automotive),$0.17 B,$3.71,2.22%,Canada
+691,692,Drecom,$0.17 B,$6.22,1.59%,Japan
+692,693,Ouster,$0.17 B,$0.97,2.41%,USA
+693,694,AdTheorent,$0.17 B,$2.02,2.02%,USA
+694,695,Bakkt Holdings,$0.16 B,$2.19,0.90%,USA
+695,696,Lantronix,$0.16 B,$4.59,2.75%,USA
+696,697,Spire Global,$0.16 B,$1.15,7.48%,USA
+697,698,Dave Inc.,$0.16 B,$0.43,3.03%,USA
+698,699,KORE,$0.16 B,$2.10,0.48%,USA
+699,700,Backblaze,$0.15 B,$5.02,0.40%,USA
+700,701,Ceragon Networks,$0.15 B,$1.88,1.57%,Israel
+701,702,Talkspace,$0.15 B,$1.00,1.96%,USA
+702,703,Allied Tecnologia,$0.15 B,$1.64,0.34%,Brazil
+703,704,ServiceSource,$0.15 B,$1.50,0.67%,USA
+704,705,CalAmp,$0.15 B,$4.05,0.00%,USA
+705,706,Applied Blockchain,$0.14 B,$1.59,0.00%,USA
+706,707,Doma,$0.14 B,$0.45,0.84%,USA
+707,708,CleanSpark,$0.14 B,$3.13,0.64%,USA
+708,709,The RealReal,$0.14 B,$1.52,4.10%,USA
+709,710,kneat.com,$0.14 B,$1.82,5.62%,Ireland
+710,711,Spok Holdings,$0.14 B,$7.25,0.14%,USA
+711,712,Quick Heal,$0.13 B,$2.40,3.86%,India
+712,713,Avaya Holdings,$0.13 B,$1.59,8.16%,USA
+713,714,"PLAID,Inc.",$0.13 B,$4.18,2.58%,Japan
+714,715,Smith Micro Software,$0.13 B,$2.38,3.64%,USA
+715,716,Aterian,$0.13 B,$1.89,0.00%,USA
+716,717,Nucleus Software Exports,$0.13 B,$4.90,0.85%,India
+717,718,Rubicon Technologies,$0.12 B,$2.60,10.34%,USA
+718,719,Serverworks,$0.12 B,$16.16,1.97%,Japan
+719,720,KLab,$0.12 B,$3.26,3.75%,Japan
+720,721,Iteris,$0.12 B,$2.91,1.02%,USA
+721,722,Latch,$0.12 B,$0.86,1.83%,USA
+722,723,Quantum,$0.12 B,$1.20,4.76%,USA
+723,724,Paysign,$0.12 B,$2.33,4.12%,USA
+724,725,TeraWulf,$0.12 B,$1.05,5.41%,USA
+725,726,Rockley Photonics,$0.11 B,$0.90,2.51%,UK
+726,727,Userjoy Technology,$0.11 B,$2.38,3.42%,Taiwan
+727,728,Wejo Group,$0.11 B,$1.05,2.94%,UK
+728,729,Tabula Rasa HealthCare,$0.11 B,$4.28,2.95%,USA
+729,730,Troops,$0.10 B,$1.07,2.88%,Hong Kong
+730,731,Mynaric,$0.10 B,$4.70,8.74%,Germany
+731,732,Asure Software,$0.10 B,$5.30,0.56%,USA
+732,733,Park City Group,$0.10 B,$5.68,2.07%,USA
+733,734,Phunware,$0.10 B,$1.07,10.08%,USA
+734,735,Synchronoss,$0.10 B,$1.15,0.86%,USA
+735,736,Swvl Holdings,$0.10 B,$0.75,2.32%,United Arab Emirates
+736,737,Sylogist,$0.10 B,$4.20,6.07%,Canada
+737,738,Mister Spex,$98.97 M,$2.92,4.12%,Germany
+738,739,Xunlei,$96.64 M,$1.42,0.70%,China
+739,740,Bit Digital,$96.46 M,$1.17,2.50%,USA
+740,741,Starbox Group,$94.94 M,$2.11,0.94%,Malaysia
+741,742,CI Games,$94.82 M,$0.50,4.67%,Poland
+742,743,O2Micro,$93.58 M,$3.21,5.03%,Cayman Islands
+743,744,3i Infotech,$92.02 M,$0.55,0.68%,India
+744,745,Bird Global,$87.05 M,$0.31,3.20%,USA
+745,746,Wag! Group,$86.46 M,$2.28,6.94%,USA
+746,747,Red Cat Holdings,$86.06 M,$1.59,1.55%,USA
+747,748,Pixelworks,$84.21 M,$1.55,4.91%,USA
+748,749,Greenidge Generation Holdings,$83.41 M,$1.99,2.58%,USA
+749,750,Quicklogic,$80.21 M,$6.12,3.01%,USA
+750,751,UpHealth,$80.03 M,$0.51,3.77%,USA
+751,752,Energous,$79.8 M,$1.03,0.96%,USA
+752,753,Viomi Technology,$78.36 M,$1.13,0.88%,China
+753,754,IronNet,$78.27 M,$0.77,10.25%,USA
+754,755,Compugen,$74.05 M,$0.75,1.77%,Israel
+755,756,The Glimpse Group,$73.16 M,$5.74,1.23%,USA
+756,757,Scienjoy,$66.04 M,$1.67,43.77%,China
+757,758,Cheetah Mobile,$64.78 M,$2.28,11.28%,China
+758,759,Shift Technologies,$62.56 M,$0.74,12.66%,USA
+759,760,geechs,$61.85 M,$5.88,2.42%,Japan
+760,761,BitNile,$61.26 M,$0.19,3.54%,USA
+761,762,Triterras,$61.21 M,$0.80,4.76%,Singapore
+762,763,Starbreeze,$59.69 M,$0.08000,1.08%,Sweden
+763,764,Spark Networks,$58.09 M,$2.22,2.66%,Germany
+764,765,enish,$56.88 M,$3.30,2.81%,Japan
+765,766,Geospace Technologies,$56.12 M,$4.31,3.15%,USA
+766,767,ReWalk Robotics,$51.51 M,$0.82,5.08%,Israel
+767,768,Nippon Ichi Software,$49.46 M,$9.82,1.87%,Japan
+768,769,Mobile Factory,$49.06 M,$6.21,2.63%,Japan
+769,770,Verb Technology,$48.61 M,$0.47,0.52%,USA
+770,771,Voyager Digital,$48.55 M,$0.25,0.00%,USA
+771,772,Rekor Systems,$46.72 M,$0.87,1.56%,USA
+772,773,Natural Health Trends,$44.09 M,$3.86,3.74%,USA
+773,774,Intellicheck,$43.34 M,$2.29,5.05%,USA
+774,775,AgEagle Aerial Systems,$40.94 M,$0.47,5.79%,USA
+775,776,Tose Software,$40.45 M,$5.34,2.53%,Japan
+776,777,Onion Global,$39.41 M,$0.38,1.32%,China
+777,778,American Virtual Cloud,$39.14 M,$0.31,8.58%,USA
+778,779,ATARI,$38.58 M,$0.13,0.00%,France
+779,780,Cyngn,$34.63 M,$1.03,9.46%,USA
+780,781,Foresight Autonomous Holdings,$33.8 M,$0.52,1.43%,Israel
+781,782,Treasure Global,$33.56 M,$1.96,3.16%,Malaysia
+782,783,Waitr Holdings,$33.52 M,$0.18,3.66%,USA
+783,784,RealNetworks,$32.78 M,$0.69,0.45%,USA
+784,785,Exela Technologies,$32.53 M,$0.50,2.20%,USA
+785,786,Shapeways,$32.32 M,$0.66,2.52%,USA
+786,787,Remark Holdings,$31.31 M,$0.30,1.03%,USA
+787,788,Sphere 3D,$30.45 M,$0.46,7.51%,Canada
+788,789,Appirits,$28.65 M,$7.19,0.68%,Japan
+789,790,SOS Limited,$26.71 M,$4.69,4.87%,China
+790,791,Super League Gaming,$25.58 M,$0.68,4.08%,USA
+791,792,Quanergy Systems,$25.03 M,$0.21,0.10%,USA
+792,793,Marpai,$23.78 M,$1.15,3.36%,USA
+793,794,BIT Mining (500.com),$23.68 M,$0.26,8.77%,China
+794,795,Inpixon,$22.79 M,$0.14,21.50%,USA
+795,796,Marin Software,$22.67 M,$1.42,0.70%,USA
+796,797,Silicon Studio,$22.03 M,$7.71,0.98%,Japan
+797,798,NJ Holdings,$21.42 M,$4.05,0.86%,Japan
+798,799,The9,$21.21 M,$0.92,1.61%,China
+799,800,SeaChange,$21.12 M,$0.42,2.18%,USA
+800,801,Cryptyde,$20.94 M,$0.67,3.10%,USA
+801,802,Stronghold Digital Mining,$20.49 M,$1.02,7.27%,USA
+802,803,Trust Stamp,$20.36 M,$0.83,7.53%,USA
+803,804,Ekso Bionics,$19.4 M,$1.49,6.88%,USA
+804,805,Missfresh,$19.37 M,$0.08000,3.18%,China
+805,806,WonderPlanet,$18.23 M,$8.48,5.25%,Japan
+806,807,OLB Group,$15.87 M,$1.08,1.89%,USA
+807,808,ADVFN,$15.6 M,$56.82,1.87%,UK
+808,809,Advanced Human Imaging,$15.26 M,$0.61,4.34%,Australia
+809,810,Socket Mobile,$15.2 M,$2.13,7.39%,USA
+810,811,BIO-key International,$12.59 M,$1.49,1.97%,USA
+811,812,Jump Networks,$11.66 M,$0.12,1.13%,India
+812,813,Rail Vision,$11.12 M,$0.70,4.11%,Israel
+813,814,Kidpik,$10.84 M,$1.41,10.76%,USA
+814,815,AppTech Payments,$10.68 M,$0.65,3.18%,USA
+815,816,Blackboxstocks,$10.48 M,$0.80,2.70%,USA
+816,817,IMTE,$10.32 M,$0.70,2.93%,Australia
+817,818,Winc,$9.93 M,$0.75,20.90%,USA
+818,819,Guardforce AI,$9.9 M,$0.24,0.29%,Singapore
+819,820,SaverOne 2014,$7.97 M,$1.68,6.67%,Israel
+820,821,Netcapital,$7.73 M,$1.80,8.63%,USA
+821,822,Grom Social Enterprises,$7.16 M,$0.34,3.71%,USA
+822,823,Onfolio Holdings,$5.97 M,$1.17,2.18%,USA
+823,824,G Medical Innovations,$5.88 M,$0.22,6.02%,Israel
+824,825,Cemtrex,$5.7 M,$0.22,6.67%,USA
+825,826,Versus Systems,$4.71 M,$0.19,5.17%,Canada
+826,827,Pintec Technology,$3.47 M,$0.40,7.04%,China
+827,828,Mobilicom,$2.25 M,$1.71,0.59%,Australia
+828,829,Pareteum Corporation,$0.02 M,N/A,0.00%,USA
+829,830,Yandex,N/A,$26.49,16.12%,Netherlands
+830,831,Ozon,N/A,N/A,0.00%,USA
+831,832,Justworks,N/A,N/A,0.00%,USA
