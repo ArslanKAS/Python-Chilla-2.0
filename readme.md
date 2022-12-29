@@ -2,17 +2,17 @@
 ---
 * Pandas
 * Excel
-* Web_Scrapping
+* Web Scrapping
 * Exploratory Data Analysis
-* Time_Complexity
-* Transformers_and_Pipelines
-* Handling_Mixed_Data
-* Handling_Datetime
+* Time Complexity
+* Transformers and Pipelines
+* Handling Mixed Data
+* Handling Datetime
 * Handling Missing Data
-* Lazy_Predict
-* Feature_Encoding
-* Handling_Outliers
-* Feature_Construction
-* Linear_Regression
-* Gradient_Descent
-* Ridge_Regression
+* Lazy Predict
+* Feature Encoding
+* Handling Outliers
+* Feature Construction
+* Linear Regression
+* Gradient Descent
+* Ridge Regression
