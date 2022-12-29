@@ -1,3 +1,18 @@
-# Welcome to <strong>Python Chilla 2.0</strong>
+# Welcome to Python Chilla 2.0
 ---
-![poster1](https://user-images.githubusercontent.com/43797457/180655244-e69ac09a-23af-47a1-9660-ee1ea7a965af.png)
+* Pandas
+* Excel
+* Web_Scrapping
+* Exploratory Data Analysis
+* Time_Complexity
+* Transformers_and_Pipelines
+* Handling_Mixed_Data
+* Handling_Datetime
+* Handling Missing Data
+* Lazy_Predict
+* Feature_Encoding
+* Handling_Outliers
+* Feature_Construction
+* Linear_Regression
+* Gradient_Descent
+* Ridge_Regression
