@@ -1,0 +1,1 @@
+![AdaBoost](https://github.com/ArslanKAS/Python-Chilla-2.0/blob/master/26_AdaBoost/AdaBoost-Steps.png)
