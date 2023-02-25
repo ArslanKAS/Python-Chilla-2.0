@@ -1,1 +1,4 @@
-Codes related to the K-Means clustering algorithm
+# K-Means clustering
+
+![WCSS](https://github.com/ArslanKAS/Python-Chilla-2.0/blob/master/28_K_Means_Clustering/WCSS.png)
+![Elbow Method](https://github.com/ArslanKAS/Python-Chilla-2.0/blob/master/28_K_Means_Clustering/Elbow_Method.png)
